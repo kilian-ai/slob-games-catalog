@@ -1,0 +1,12 @@
+{
+  "name": "test-game-001",
+  "content": "<html><body>hello world</body></html>",
+  "version": "260503.224905",
+  "checksum": "53e4b2a7c22f7404",
+  "content_hash": "53e4b2a7c22f7404",
+  "owner": "testuser",
+  "game_id": "test-game-001",
+  "updated": "2026-05-03T22:49:05.785Z",
+  "size": 37,
+  "resources": {}
+}
