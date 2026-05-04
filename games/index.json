@@ -45,6 +45,17 @@
       "version": "260413.163138"
     },
     {
+      "id": "kilian/default-puzzle-game-bright-edition",
+      "owner": "kilian",
+      "game_id": "default-puzzle-game-bright-edition",
+      "name": "Default Puzzle Game - Bright Edition",
+      "checksum": "a22d7c1bd2778a31",
+      "content_hash": "a22d7c1bd2778a31",
+      "size": 20290,
+      "updated": "2026-05-04T20:53:05.181Z",
+      "version": "260413.042924"
+    },
+    {
       "id": "kilian/kilian-ai-breakout-power-mix-260414235545-1",
       "owner": "kilian",
       "game_id": "kilian-ai-breakout-power-mix-260414235545-1",
