@@ -23,6 +23,17 @@
       "version": "260417.145115"
     },
     {
+      "id": "kilian/canvas-breaker-collision-demo",
+      "owner": "kilian",
+      "game_id": "canvas-breaker-collision-demo",
+      "name": "Canvas Breaker - Collision Demo",
+      "checksum": "f366a0700fe82ce1",
+      "content_hash": "f366a0700fe82ce1",
+      "size": 7001,
+      "updated": "2026-05-04T20:51:25.099Z",
+      "version": "260413.163138"
+    },
+    {
       "id": "kilian/kilian-ai-breakout-power-mix-260414235545-1",
       "owner": "kilian",
       "game_id": "kilian-ai-breakout-power-mix-260414235545-1",
