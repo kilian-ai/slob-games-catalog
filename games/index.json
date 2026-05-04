@@ -34,6 +34,17 @@
       "version": "260504.004954"
     },
     {
+      "id": "kilian/sbaefe3f557b",
+      "owner": "kilian",
+      "game_id": "sbaefe3f557b",
+      "name": "Blast Zone!",
+      "checksum": "baefe3f557b0ec69",
+      "content_hash": "baefe3f557b0ec69",
+      "size": 27353,
+      "updated": "2026-05-04T20:49:46.570Z",
+      "version": "260416.210024"
+    },
+    {
       "id": "kilian/test-game",
       "owner": "kilian",
       "game_id": "test-game",
