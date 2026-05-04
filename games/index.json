@@ -78,6 +78,17 @@
       "version": "260416.185815"
     },
     {
+      "id": "kilian/kilian-ai-shooterx-260414235547-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-shooterx-260414235547-1",
+      "name": "kilian-ai__shooterx-260414235547-1",
+      "checksum": "454ca588fbdd3281",
+      "content_hash": "454ca588fbdd3281",
+      "size": 28544,
+      "updated": "2026-05-04T22:26:28.598Z",
+      "version": "260416.185816"
+    },
+    {
       "id": "kilian/live-test-001",
       "owner": "kilian",
       "game_id": "live-test-001",
