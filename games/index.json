@@ -12,6 +12,17 @@
       "version": "260418.044442"
     },
     {
+      "id": "kilian/380291d0ea7fd9c4",
+      "owner": "kilian",
+      "game_id": "380291d0ea7fd9c4",
+      "name": "Arcanoid Upgrade",
+      "checksum": "380291d0ea7fd9c4",
+      "content_hash": "380291d0ea7fd9c4",
+      "size": 38467,
+      "updated": "2026-05-04T20:49:04.871Z",
+      "version": "260417.145115"
+    },
+    {
       "id": "kilian/live-test-001",
       "owner": "kilian",
       "game_id": "live-test-001",
