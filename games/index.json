@@ -1,6 +1,17 @@
 {
   "games": [
     {
+      "id": "kilian/260418040940",
+      "owner": "kilian",
+      "game_id": "260418040940",
+      "name": "Space Invaders Clone",
+      "checksum": "fb99c4f8b869282e",
+      "content_hash": "fb99c4f8b869282e",
+      "size": 31901,
+      "updated": "2026-05-04T20:48:40.556Z",
+      "version": "260418.044442"
+    },
+    {
       "id": "kilian/live-test-001",
       "owner": "kilian",
       "game_id": "live-test-001",
