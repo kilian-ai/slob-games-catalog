@@ -56,6 +56,17 @@
       "version": "260416.190903"
     },
     {
+      "id": "kilian/kilian-ai-cut-the-rope-canvas-edition-260414235546-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-cut-the-rope-canvas-edition-260414235546-1",
+      "name": "Cut The Rope Canvas Edition",
+      "checksum": "bc650de39ea4feed",
+      "content_hash": "bc650de39ea4feed",
+      "size": 34889,
+      "updated": "2026-05-04T20:52:34.754Z",
+      "version": "260416.185815"
+    },
+    {
       "id": "kilian/live-test-001",
       "owner": "kilian",
       "game_id": "live-test-001",
