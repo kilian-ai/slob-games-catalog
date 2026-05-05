@@ -112,17 +112,6 @@
       "version": "260416.210024"
     },
     {
-      "id": "kilian/test-game",
-      "owner": "kilian",
-      "game_id": "test-game",
-      "name": "Test Game",
-      "checksum": "95d70659530e385b",
-      "content_hash": "95d70659530e385b",
-      "size": 28,
-      "updated": "2026-05-04T20:42:50.167Z",
-      "version": "260504.204250"
-    },
-    {
       "id": "testuser/test-game-001",
       "owner": "testuser",
       "game_id": "test-game-001",
