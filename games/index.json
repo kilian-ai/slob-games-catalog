@@ -103,9 +103,10 @@
       "checksum": "454ca588fbdd3281",
       "content_hash": "454ca588fbdd3281",
       "size": 28544,
-      "updated": "2026-05-04T22:26:28.598Z",
+      "updated": "2026-05-04T22:26:28.637Z",
       "version": "260416.185816",
-      "published": true
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/sbaefe3f557b",
