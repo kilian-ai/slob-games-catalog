@@ -1,6 +1,19 @@
 {
   "games": [
     {
+      "id": "kilian/260412223655",
+      "owner": "kilian",
+      "game_id": "260412223655",
+      "name": "Pixel Breakout",
+      "checksum": "a02ed34ec9a5e95c",
+      "content_hash": "a02ed34ec9a5e95c",
+      "size": 24669,
+      "updated": "2026-05-06T18:47:16.926Z",
+      "version": "260506.184716",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/260418040940",
       "owner": "kilian",
       "game_id": "260418040940",
