@@ -196,6 +196,19 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/kilian-ai-pixel-runner-platformer-260414235547-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-pixel-runner-platformer-260414235547-1",
+      "name": "kilian-ai__pixel-runner-platformer-260414235547-1",
+      "checksum": "cc3a23876e187b40",
+      "content_hash": "cc3a23876e187b40",
+      "size": 29591,
+      "updated": "2026-05-06T18:48:51.384Z",
+      "version": "260416.185815",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/kilian-ai-shooterx-260414235547-1",
       "owner": "kilian",
       "game_id": "kilian-ai-shooterx-260414235547-1",
