@@ -144,6 +144,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/kilian-ai-brickstorm-dx-260414235546-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-brickstorm-dx-260414235546-1",
+      "name": "kilian-ai__brickstorm-dx-260414235546-1",
+      "checksum": "b5eac8b1d1bbc4cf",
+      "content_hash": "b5eac8b1d1bbc4cf",
+      "size": 29389,
+      "updated": "2026-05-06T18:47:32.058Z",
+      "version": "260416.185816",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/kilian-ai-cut-the-rope-canvas-edition-260414235546-1",
       "owner": "kilian",
       "game_id": "kilian-ai-cut-the-rope-canvas-edition-260414235546-1",
