@@ -39,6 +39,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/arcanoid-ultra",
+      "owner": "kilian",
+      "game_id": "arcanoid-ultra",
+      "name": "Arcanoid Ultra",
+      "checksum": "b633a587c652d023",
+      "content_hash": "b633a587c652d023",
+      "size": 13,
+      "updated": "2026-05-06T05:45:35.360Z",
+      "version": "260415.022618",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
       "id": "kilian/bowl-toss",
       "owner": "kilian",
       "game_id": "bowl-toss",
