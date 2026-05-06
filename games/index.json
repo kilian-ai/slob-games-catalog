@@ -117,7 +117,9 @@
       "content_hash": "baefe3f557b0ec69",
       "size": 27353,
       "updated": "2026-05-04T22:25:42.772Z",
-      "version": "260416.210024"
+      "version": "260416.210024",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/tetronix-canvas-tetris",
