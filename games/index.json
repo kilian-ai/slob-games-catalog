@@ -235,6 +235,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/kilian-ai-socks-slippery-game-260414235549-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-socks-slippery-game-260414235549-1",
+      "name": "kilian-ai__socks-slippery-game-260414235549-1",
+      "checksum": "602c039f023233b1",
+      "content_hash": "602c039f023233b1",
+      "size": 21281,
+      "updated": "2026-05-06T18:49:13.732Z",
+      "version": "260416.185816",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/sbaefe3f557b",
       "owner": "kilian",
       "game_id": "sbaefe3f557b",
