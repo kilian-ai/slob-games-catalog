@@ -274,6 +274,19 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/s396fedefa2a",
+      "owner": "kilian",
+      "game_id": "s396fedefa2a",
+      "name": "Canvas Game Loading",
+      "checksum": "396fedefa2a016f5",
+      "content_hash": "396fedefa2a016f5",
+      "size": 2565,
+      "updated": "2026-05-06T18:49:57.872Z",
+      "version": "260416.210020",
+      "published": true,
+      "sprite_count": 34
+    },
+    {
       "id": "kilian/sbaefe3f557b",
       "owner": "kilian",
       "game_id": "sbaefe3f557b",
