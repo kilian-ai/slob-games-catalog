@@ -111,6 +111,19 @@
       "size": 27353,
       "updated": "2026-05-04T22:25:42.772Z",
       "version": "260416.210024"
+    },
+    {
+      "id": "kilian/tetronix-canvas-tetris",
+      "owner": "kilian",
+      "game_id": "tetronix-canvas-tetris",
+      "name": "Tetronix (Canvas Tetris)",
+      "checksum": "69112a64dcc65e31",
+      "content_hash": "69112a64dcc65e31",
+      "size": 30541,
+      "updated": "2026-05-06T05:37:59.944Z",
+      "version": "260412.192926",
+      "published": true,
+      "sprite_count": 0
     }
   ]
 }
