@@ -26,8 +26,8 @@
     },
     {
       "name": "ball.png",
-      "size": 197143,
-      "sha": "9fc4da47d13a67aadf1902893968969e60783752",
+      "size": 19522,
+      "sha": "6cd3435abade26b6300266d1bdb25523d33d0ca5",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/ball.png"
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "name": "brick.png",
-      "size": 197143,
-      "sha": "0290c31905fb09fd96f2a11d5ef48bc3ef5b55b3",
+      "size": 870,
+      "sha": "d1e48da68fbc3ab5416a9f1160818cccf26864e9",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/brick.png"
     },
     {
@@ -212,8 +212,8 @@
     },
     {
       "name": "powerup_shield.png",
-      "size": 197143,
-      "sha": "aa747adaa272748764864397e4c4420c76928cbe",
+      "size": 3172,
+      "sha": "23bdb301d37f8507eb40eac8a1d26eba0bb5e24d",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_shield.png"
     },
     {
