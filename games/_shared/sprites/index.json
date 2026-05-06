@@ -1,0 +1,148 @@
+{
+  "sprites": [
+    {
+      "name": "ball.png",
+      "size": 19522,
+      "sha": "6cd3435abade26b6300266d1bdb25523d33d0ca5",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/ball.png"
+    },
+    {
+      "name": "brick.png",
+      "size": 870,
+      "sha": "d1e48da68fbc3ab5416a9f1160818cccf26864e9",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/brick.png"
+    },
+    {
+      "name": "crate.png",
+      "size": 21455,
+      "sha": "84a80144dd66a6e744bfdb2451a8ac1112e323a8",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/crate.png"
+    },
+    {
+      "name": "drone.png",
+      "size": 25334,
+      "sha": "9f5a903fa69282eb233a839b015505dfa90bf5fb",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/drone.png"
+    },
+    {
+      "name": "enemy.png",
+      "size": 2956,
+      "sha": "1bba74424df431dbde069e25afd9097fd4c4a7f1",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/enemy.png"
+    },
+    {
+      "name": "hoop.png",
+      "size": 26269,
+      "sha": "f893f86c110e00000afffbbd6e7bc16e01262309",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/hoop.png"
+    },
+    {
+      "name": "launcher.png",
+      "size": 24139,
+      "sha": "630308978df5bf63dd74f8c1f4f2de07ee3d4d87",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/launcher.png"
+    },
+    {
+      "name": "power_bomb.png",
+      "size": 22046,
+      "sha": "cce5b5979ceb8b20dba1184414980726b7a25489",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_bomb.png"
+    },
+    {
+      "name": "power_double.png",
+      "size": 25084,
+      "sha": "91e8cf490bf9b61157573e528ff205e131c8fddb",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_double.png"
+    },
+    {
+      "name": "power_invincible.png",
+      "size": 20084,
+      "sha": "047f66ae70284dfce33763c82e4155f8e4fcc4c3",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_invincible.png"
+    },
+    {
+      "name": "power_laser.png",
+      "size": 22819,
+      "sha": "51e7aa5261da411968764cf3983a1aaaaa701275",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_laser.png"
+    },
+    {
+      "name": "power_life.png",
+      "size": 20894,
+      "sha": "e65c627f3630f96a346ebe03789f698f1991bf90",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_life.png"
+    },
+    {
+      "name": "power_magnet.png",
+      "size": 22065,
+      "sha": "37192c7268db8c2a260d080ba510dab06616048e",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_magnet.png"
+    },
+    {
+      "name": "power_multi.png",
+      "size": 23550,
+      "sha": "425dfed831a9fc5710a900e9e11cddc203dcdb13",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_multi.png"
+    },
+    {
+      "name": "power_shield.png",
+      "size": 23285,
+      "sha": "a835c082ae4a75b9120b42bdb1325ffcfaec35f9",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_shield.png"
+    },
+    {
+      "name": "power_slow.png",
+      "size": 23864,
+      "sha": "f5714ea5064d90e5f737a57bd23a2760f270cee9",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_slow.png"
+    },
+    {
+      "name": "power_speed.png",
+      "size": 219,
+      "sha": "8c735f5525c07914902b29d218bf6d74f6826793",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/power_speed.png"
+    },
+    {
+      "name": "powerup_bomb.png",
+      "size": 3775,
+      "sha": "3ff83bd4ddfc8e144a5713791907a73f5f2317d9",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_bomb.png"
+    },
+    {
+      "name": "powerup_life.png",
+      "size": 2901,
+      "sha": "1f43c7a8c83dad5f369500d5213af186b996c730",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_life.png"
+    },
+    {
+      "name": "powerup_multiplier.png",
+      "size": 3033,
+      "sha": "86d87e8bf24a9d5eaacdc13afdca3422a3b7efaa",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_multiplier.png"
+    },
+    {
+      "name": "powerup_mystery.png",
+      "size": 7868,
+      "sha": "df538622ce36c2dfeb8030c76b5bc3d54977b96a",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_mystery.png"
+    },
+    {
+      "name": "powerup_shield.png",
+      "size": 3172,
+      "sha": "23bdb301d37f8507eb40eac8a1d26eba0bb5e24d",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_shield.png"
+    },
+    {
+      "name": "powerup_speed.png",
+      "size": 3304,
+      "sha": "2d404d6a9c2792e01b07c0983265231c77dfe412",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_speed.png"
+    },
+    {
+      "name": "star.png",
+      "size": 21917,
+      "sha": "643c9f56e89babe49c3e94837ed316e8f2da68d6",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/star.png"
+    }
+  ]
+}
