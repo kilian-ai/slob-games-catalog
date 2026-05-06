@@ -31,6 +31,18 @@
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/ball.png"
     },
     {
+      "name": "banana.png",
+      "size": 186,
+      "sha": "b49ce18f37882fa34ab03874ec0680fe30a4f5e6",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/banana.png"
+    },
+    {
+      "name": "bed.png",
+      "size": 134,
+      "sha": "99cc3f1e981423be33354e43a50680c041fcd26e",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/bed.png"
+    },
+    {
       "name": "brick.png",
       "size": 197143,
       "sha": "0290c31905fb09fd96f2a11d5ef48bc3ef5b55b3",
@@ -49,6 +61,12 @@
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/crate.png"
     },
     {
+      "name": "dresser.png",
+      "size": 142,
+      "sha": "dfb2971ef44984a889d51ea25e32e04546a15a34",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/dresser.png"
+    },
+    {
       "name": "drone.png",
       "size": 25334,
       "sha": "9f5a903fa69282eb233a839b015505dfa90bf5fb",
@@ -59,6 +77,12 @@
       "size": 2956,
       "sha": "1bba74424df431dbde069e25afd9097fd4c4a7f1",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/enemy.png"
+    },
+    {
+      "name": "floor.png",
+      "size": 134,
+      "sha": "925d091c884e96a8bb08b47522a47ac5c12af618",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/floor.png"
     },
     {
       "name": "hoop.png",
@@ -188,9 +212,15 @@
     },
     {
       "name": "powerup_shield.png",
-      "size": 3172,
-      "sha": "23bdb301d37f8507eb40eac8a1d26eba0bb5e24d",
+      "size": 197143,
+      "sha": "aa747adaa272748764864397e4c4420c76928cbe",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_shield.png"
+    },
+    {
+      "name": "powerup_slow.png",
+      "size": 197143,
+      "sha": "ddeb3b6caee01e724cd2a46d3ff1a9c6f0440315",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_slow.png"
     },
     {
       "name": "powerup_speed.png",
@@ -199,10 +229,52 @@
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/powerup_speed.png"
     },
     {
+      "name": "red_ball.png",
+      "size": 197143,
+      "sha": "58ce359a7183dec09d28104e05607b9d5a9d2527",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/red_ball.png"
+    },
+    {
+      "name": "shield_piece.png",
+      "size": 197143,
+      "sha": "7ffbb88ec4158c5f79ba547a2571871cd11cd2f5",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/shield_piece.png"
+    },
+    {
+      "name": "slip_fx.png",
+      "size": 187,
+      "sha": "af34f53b21458b628a60cdc211b7453e26ed66b9",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/slip_fx.png"
+    },
+    {
+      "name": "socks.png",
+      "size": 149,
+      "sha": "097070bf43aaf3cac46fa5667044b6c46261e2c7",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/socks.png"
+    },
+    {
       "name": "star.png",
       "size": 21917,
       "sha": "643c9f56e89babe49c3e94837ed316e8f2da68d6",
       "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/star.png"
+    },
+    {
+      "name": "ufo.png",
+      "size": 197143,
+      "sha": "888e672e6bf17a5c2b7245d9a1f9274093647899",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/ufo.png"
+    },
+    {
+      "name": "wall.png",
+      "size": 197143,
+      "sha": "0b17c25721c03d58b3350e3b29ec6fe7c494f052",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/wall.png"
+    },
+    {
+      "name": "wood_crate.png",
+      "size": 197143,
+      "sha": "90f8fe296bc81faa615e9d155252c1a3814cf00e",
+      "download_url": "https://raw.githubusercontent.com/kilian-ai/slob-games-catalog/main/games/_shared/sprites/wood_crate.png"
     }
   ]
 }
