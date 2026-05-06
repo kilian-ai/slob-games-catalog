@@ -95,7 +95,9 @@
       "content_hash": "bc650de39ea4feed",
       "size": 34889,
       "updated": "2026-05-04T20:52:34.754Z",
-      "version": "260416.185815"
+      "version": "260416.185815",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/kilian-ai-shooterx-260414235547-1",
