@@ -77,8 +77,10 @@
       "checksum": "4e130cca4c51b1de",
       "content_hash": "4e130cca4c51b1de",
       "size": 33215,
-      "updated": "2026-05-04T22:25:59.704Z",
-      "version": "260416.190903"
+      "updated": "2026-05-05T13:57:25.676Z",
+      "version": "260416.190903",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/kilian-ai-cut-the-rope-canvas-edition-260414235546-1",
