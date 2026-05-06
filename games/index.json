@@ -248,6 +248,19 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/kilian-ai-two-balls-one-bowl-260414235545-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-two-balls-one-bowl-260414235545-1",
+      "name": "kilian-ai__two-balls-one-bowl-260414235545-1",
+      "checksum": "93e3a5f8f4a433ca",
+      "content_hash": "93e3a5f8f4a433ca",
+      "size": 29904,
+      "updated": "2026-05-06T18:49:29.059Z",
+      "version": "260416.185815",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/sbaefe3f557b",
       "owner": "kilian",
       "game_id": "sbaefe3f557b",
