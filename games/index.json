@@ -31,8 +31,10 @@
       "checksum": "380291d0ea7fd9c4",
       "content_hash": "380291d0ea7fd9c4",
       "size": 38467,
-      "updated": "2026-05-04T22:26:12.590Z",
-      "version": "260417.145115"
+      "updated": "2026-05-06T05:33:16.470Z",
+      "version": "260417.145115",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/brickstorm-dx",
