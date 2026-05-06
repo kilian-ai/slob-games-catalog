@@ -17,13 +17,14 @@
       "id": "kilian/260504203731",
       "owner": "kilian",
       "game_id": "260504203731",
-      "name": "Snake",
-      "checksum": "a868f1721921b23b",
-      "content_hash": "a868f1721921b23b",
-      "size": 5765,
-      "updated": "2026-05-04T20:55:35.337Z",
-      "version": "260504.205535",
-      "published": false
+      "name": "Snake Powerup Edition",
+      "checksum": "53a748ef2b64feb5",
+      "content_hash": "53a748ef2b64feb5",
+      "size": 21583,
+      "updated": "2026-05-06T13:29:08.949Z",
+      "version": "260506.132854",
+      "published": false,
+      "sprite_count": 0
     },
     {
       "id": "kilian/260505033904",
