@@ -58,7 +58,9 @@
       "content_hash": "f366a0700fe82ce1",
       "size": 7001,
       "updated": "2026-05-04T20:51:25.099Z",
-      "version": "260413.163138"
+      "version": "260413.163138",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/default-puzzle-game-bright-edition",
