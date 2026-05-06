@@ -26,6 +26,19 @@
       "published": false
     },
     {
+      "id": "kilian/260505033904",
+      "owner": "kilian",
+      "game_id": "260505033904",
+      "name": "Neon Brick Breaker Deluxe",
+      "checksum": "e4ad5494c61f90f8",
+      "content_hash": "e4ad5494c61f90f8",
+      "size": 19380,
+      "updated": "2026-05-06T05:45:28.109Z",
+      "version": "260506.054528",
+      "published": true,
+      "sprite_count": 22
+    },
+    {
       "id": "kilian/380291d0ea7fd9c4",
       "owner": "kilian",
       "game_id": "380291d0ea7fd9c4",
