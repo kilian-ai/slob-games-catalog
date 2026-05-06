@@ -69,7 +69,9 @@
       "content_hash": "a22d7c1bd2778a31",
       "size": 20290,
       "updated": "2026-05-04T20:53:05.181Z",
-      "version": "260413.042924"
+      "version": "260413.042924",
+      "published": true,
+      "sprite_count": 0
     },
     {
       "id": "kilian/kilian-ai-breakout-power-mix-260414235545-1",
