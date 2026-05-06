@@ -183,6 +183,19 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/kilian-ai-neon-brick-breaker-260414235543-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-neon-brick-breaker-260414235543-1",
+      "name": "Neon Brick Breaker",
+      "checksum": "b6e13193494e9c60",
+      "content_hash": "b6e13193494e9c60",
+      "size": 34770,
+      "updated": "2026-05-06T18:48:19.166Z",
+      "version": "260416.185815",
+      "published": true,
+      "sprite_count": 42
+    },
+    {
       "id": "kilian/kilian-ai-shooterx-260414235547-1",
       "owner": "kilian",
       "game_id": "kilian-ai-shooterx-260414235547-1",
