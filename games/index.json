@@ -79,6 +79,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/blast-zone",
+      "owner": "kilian",
+      "game_id": "blast-zone",
+      "name": "Blast Zone!",
+      "checksum": "50266ddaec092a50",
+      "content_hash": "50266ddaec092a50",
+      "size": 30621,
+      "updated": "2026-05-06T19:55:00Z",
+      "version": "260416.210022",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
       "id": "kilian/bowl-toss",
       "owner": "kilian",
       "game_id": "bowl-toss",
@@ -88,6 +101,32 @@
       "size": 24029,
       "updated": "2026-05-06T05:45:52.306Z",
       "version": "260413.192359",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
+      "id": "kilian/bowl-toss-classic",
+      "owner": "kilian",
+      "game_id": "bowl-toss-classic",
+      "name": "Bowl Toss Classic",
+      "checksum": "2e9cc7aff3834b3b",
+      "content_hash": "2e9cc7aff3834b3b",
+      "size": 9926,
+      "updated": "2026-05-06T19:50:00Z",
+      "version": "v1",
+      "published": true,
+      "sprite_count": 4
+    },
+    {
+      "id": "kilian/bowl-toss-minimal",
+      "owner": "kilian",
+      "game_id": "bowl-toss-minimal",
+      "name": "Bowl Toss Minimal",
+      "checksum": "150b527c38a0a26e",
+      "content_hash": "150b527c38a0a26e",
+      "size": 10494,
+      "updated": "2026-05-06T19:50:00Z",
+      "version": "v1",
       "published": true,
       "sprite_count": 0
     },
@@ -138,7 +177,7 @@
       "checksum": "4e130cca4c51b1de",
       "content_hash": "4e130cca4c51b1de",
       "size": 33215,
-      "updated": "2026-05-05T13:57:25.676Z",
+      "updated": "2026-05-07T14:49:23.451Z",
       "version": "260416.190903",
       "published": true,
       "sprite_count": 0
@@ -287,6 +326,32 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/snake",
+      "owner": "kilian",
+      "game_id": "snake",
+      "name": "Snake",
+      "checksum": "a868f1721921b23b",
+      "content_hash": "a868f1721921b23b",
+      "size": 5763,
+      "updated": "2026-05-06T19:15:00Z",
+      "version": "260503.220523",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
+      "id": "kilian/snake-classic",
+      "owner": "kilian",
+      "game_id": "snake-classic",
+      "name": "Snake Classic",
+      "checksum": "12985b83f1f608a7",
+      "content_hash": "12985b83f1f608a7",
+      "size": 8116,
+      "updated": "2026-05-06T20:00:00Z",
+      "version": "260416.210017",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
       "id": "kilian/test-game",
       "owner": "kilian",
       "game_id": "test-game",
@@ -309,71 +374,6 @@
       "size": 30541,
       "updated": "2026-05-06T05:38:59.065Z",
       "version": "260412.192926",
-      "published": true,
-      "sprite_count": 0
-    },
-    {
-      "id": "kilian/snake",
-      "owner": "kilian",
-      "game_id": "snake",
-      "name": "Snake",
-      "checksum": "a868f1721921b23b",
-      "content_hash": "a868f1721921b23b",
-      "size": 5763,
-      "updated": "2026-05-06T19:15:00Z",
-      "version": "260503.220523",
-      "published": true,
-      "sprite_count": 0
-    },
-    {
-      "id": "kilian/bowl-toss-classic",
-      "owner": "kilian",
-      "game_id": "bowl-toss-classic",
-      "name": "Bowl Toss Classic",
-      "checksum": "2e9cc7aff3834b3b",
-      "content_hash": "2e9cc7aff3834b3b",
-      "size": 9926,
-      "updated": "2026-05-06T19:50:00Z",
-      "version": "v1",
-      "published": true,
-      "sprite_count": 4
-    },
-    {
-      "id": "kilian/bowl-toss-minimal",
-      "owner": "kilian",
-      "game_id": "bowl-toss-minimal",
-      "name": "Bowl Toss Minimal",
-      "checksum": "150b527c38a0a26e",
-      "content_hash": "150b527c38a0a26e",
-      "size": 10494,
-      "updated": "2026-05-06T19:50:00Z",
-      "version": "v1",
-      "published": true,
-      "sprite_count": 0
-    },
-    {
-      "id": "kilian/blast-zone",
-      "owner": "kilian",
-      "game_id": "blast-zone",
-      "name": "Blast Zone!",
-      "checksum": "50266ddaec092a50",
-      "content_hash": "50266ddaec092a50",
-      "size": 30621,
-      "updated": "2026-05-06T19:55:00Z",
-      "version": "260416.210022",
-      "published": true,
-      "sprite_count": 0
-    },
-    {
-      "id": "kilian/snake-classic",
-      "owner": "kilian",
-      "game_id": "snake-classic",
-      "name": "Snake Classic",
-      "checksum": "12985b83f1f608a7",
-      "content_hash": "12985b83f1f608a7",
-      "size": 8116,
-      "updated": "2026-05-06T20:00:00Z",
-      "version": "260416.210017",
       "published": true,
       "sprite_count": 0
     }
