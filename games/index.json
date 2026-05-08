@@ -287,6 +287,19 @@
       "sprite_count": 42
     },
     {
+      "id": "kilian/live-test-001",
+      "owner": "kilian",
+      "game_id": "live-test-001",
+      "name": "live-test-001",
+      "checksum": "dea1c3de746f78eb",
+      "content_hash": "dea1c3de746f78eb",
+      "size": 44,
+      "updated": "2026-05-06T19:44:10.442Z",
+      "version": "260504.004954",
+      "published": true,
+      "sprite_count": 52
+    },
+    {
       "id": "kilian/s17fbf0cfc9a",
       "owner": "kilian",
       "game_id": "s17fbf0cfc9a",
