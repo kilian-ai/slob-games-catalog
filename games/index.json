@@ -365,6 +365,19 @@
       "sprite_count": 24
     },
     {
+      "id": "kilian/test-game-001",
+      "owner": "kilian",
+      "game_id": "test-game-001",
+      "name": "test-game-001",
+      "checksum": "53e4b2a7c22f7404",
+      "content_hash": "53e4b2a7c22f7404",
+      "size": 37,
+      "updated": "2026-05-06T19:44:20.436Z",
+      "version": "260503.224905",
+      "published": true,
+      "sprite_count": 52
+    },
+    {
       "id": "kilian/tetronix-canvas-tetris",
       "owner": "kilian",
       "game_id": "tetronix-canvas-tetris",
