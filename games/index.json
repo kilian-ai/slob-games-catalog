@@ -261,6 +261,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/kilian-ai-snake-powerup-edition-260414235548-1",
+      "owner": "kilian",
+      "game_id": "kilian-ai-snake-powerup-edition-260414235548-1",
+      "name": "Snake Powerup Edition",
+      "checksum": "53a748ef2b64feb5",
+      "content_hash": "53a748ef2b64feb5",
+      "size": 21583,
+      "updated": "2026-05-09T05:19:40.835Z",
+      "version": "260506.132854",
+      "published": true,
+      "sprite_count": 0
+    },
+    {
       "id": "kilian/kilian-ai-socks-slippery-game-260414235549-1",
       "owner": "kilian",
       "game_id": "kilian-ai-socks-slippery-game-260414235549-1",
