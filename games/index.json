@@ -391,6 +391,19 @@
       "sprite_count": 46
     },
     {
+      "id": "kilian/s383c2f693e6",
+      "owner": "kilian",
+      "game_id": "s383c2f693e6",
+      "name": "Arcanoid Ultra",
+      "checksum": "383c2f693e6c6b92",
+      "content_hash": "383c2f693e6c6b92",
+      "size": 21045,
+      "updated": "2026-05-09T14:35:33.809Z",
+      "version": "260417.211601",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/s396fedefa2a",
       "owner": "kilian",
       "game_id": "s396fedefa2a",
