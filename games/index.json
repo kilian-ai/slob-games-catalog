@@ -118,6 +118,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/boulder-dash-clone",
+      "owner": "kilian",
+      "game_id": "boulder-dash-clone",
+      "name": "Boulder Dash Clone",
+      "checksum": "fd4d94f3509ef945",
+      "content_hash": "fd4d94f3509ef945",
+      "size": 15838,
+      "updated": "2026-05-09T14:34:51.159Z",
+      "version": "260418.054058",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/bowl-toss",
       "owner": "kilian",
       "game_id": "bowl-toss",
