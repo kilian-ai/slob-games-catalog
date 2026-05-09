@@ -456,6 +456,19 @@
       "sprite_count": 0
     },
     {
+      "id": "kilian/sf3861a4bc35",
+      "owner": "kilian",
+      "game_id": "sf3861a4bc35",
+      "name": "Snake Classic",
+      "checksum": "f3861a4bc35da3b0",
+      "content_hash": "f3861a4bc35da3b0",
+      "size": 6815,
+      "updated": "2026-05-09T14:37:06.467Z",
+      "version": "260417.211605",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/sf52da07ab80",
       "owner": "kilian",
       "game_id": "sf52da07ab80",
