@@ -417,6 +417,19 @@
       "sprite_count": 34
     },
     {
+      "id": "kilian/s454ca588fbd",
+      "owner": "kilian",
+      "game_id": "s454ca588fbd",
+      "name": "ShooterX",
+      "checksum": "f3978aff9dcf2cd9",
+      "content_hash": "f3978aff9dcf2cd9",
+      "size": 21481,
+      "updated": "2026-05-09T14:35:49.987Z",
+      "version": "260417.211602",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/s71e0d5ff47e",
       "owner": "kilian",
       "game_id": "s71e0d5ff47e",
