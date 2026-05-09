@@ -1,6 +1,19 @@
 {
   "games": [
     {
+      "id": "kilian/260410030925",
+      "owner": "kilian",
+      "game_id": "260410030925",
+      "name": "Snake",
+      "checksum": "b937c2c3cf4e80de",
+      "content_hash": "b937c2c3cf4e80de",
+      "size": 5333,
+      "updated": "2026-05-09T14:34:38.389Z",
+      "version": "260417.211600",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/260412223655",
       "owner": "kilian",
       "game_id": "260412223655",
