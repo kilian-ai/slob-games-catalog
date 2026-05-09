@@ -352,6 +352,19 @@
       "sprite_count": 52
     },
     {
+      "id": "kilian/neon-tic-tac-toe",
+      "owner": "kilian",
+      "game_id": "neon-tic-tac-toe",
+      "name": "Neon Tic-Tac-Toe",
+      "checksum": "724c78a0952325ff",
+      "content_hash": "724c78a0952325ff",
+      "size": 21992,
+      "updated": "2026-05-09T14:35:01.851Z",
+      "version": "260421.202724",
+      "published": true,
+      "sprite_count": 46
+    },
+    {
       "id": "kilian/s17fbf0cfc9a",
       "owner": "kilian",
       "game_id": "s17fbf0cfc9a",
